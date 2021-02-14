@@ -1,7 +1,7 @@
 * Projeto Front-End Boot Covid-19
   * Design - Ferramenta Figma
 
-> Trabalho acadêmico da Faculdade
+> Trabalho acadêmico da faculdade
 
 > Desenvolvido por Ericton Felicidade de Brito
 
